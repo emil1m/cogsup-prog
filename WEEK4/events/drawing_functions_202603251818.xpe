@@ -1,0 +1,30 @@
+#Expyriment 1.0.0 (Python 3.13.11), .xpe-file, coding: UTF-8
+#date: Wed Mar 25 2026 18:18:08
+#sha1: 3cf939
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Remis-MacBook-Pro.local', release='25.3.0', version='Darwin Kernel Version 25.3.0: Wed Jan 28 20:53:31 PST 2026; root:xnu-12377.91.3~2/RELEASE_ARM64_T8103', machine='arm64')
+Time,Type,Event,Value,Detail,Detail2
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'Preloading function not implemented correctly.'
+1325,stdout,received,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]'
+1325,Experiment,ended
+1343,Stimulus,presented,21

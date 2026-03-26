@@ -1,0 +1,12 @@
+#Expyriment 1.0.0 (Python 3.13.11), .xpe-file, coding: UTF-8
+#date: Wed Mar 25 2026 19:02:39
+#sha1: 5c2fe8
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Remis-MacBook-Pro.local', release='25.3.0', version='Darwin Kernel Version 25.3.0: Wed Jan 28 20:53:31 PST 2026; root:xnu-12377.91.3~2/RELEASE_ARM64_T8103', machine='arm64')
+Time,Type,Event,Value,Detail,Detail2
+701,Stimulus,presented,0
+1718,Stimulus,presented,1
+2735,Stimulus,presented,2
+4735,Experiment,ended
+4752,Stimulus,presented,3
